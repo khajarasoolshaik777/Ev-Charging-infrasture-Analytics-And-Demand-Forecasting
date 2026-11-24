@@ -1,0 +1,8 @@
+Chart PNGs are auto-saved here when you run:
+  python scripts/model_training.py
+
+Expected files:
+  ML_01_roc_curves.png
+  ML_02_model_comparison.png
+  ML_03_confusion_matrix.png
+  ML_04_feature_importance.png

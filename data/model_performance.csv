@@ -1,0 +1,4 @@
+Model,Test_AUC
+Logistic Regression,0.999
+Random Forest,1.0
+Gradient Boosting,1.0

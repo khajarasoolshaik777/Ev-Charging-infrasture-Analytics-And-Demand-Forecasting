@@ -1,0 +1,11 @@
+{
+  "kpis": {
+    "total_stations": 242417,
+    "total_ports": 474962,
+    "total_fast": 50833,
+    "total_ultra": 13504,
+    "total_countries": 121,
+    "total_ev_models": 128,
+    "global_fast_share_pct": 21.0
+  }
+}
